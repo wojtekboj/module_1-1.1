@@ -21,7 +21,7 @@ open in a new tab, not the same. To do this, use the target = "_ blank"
 attribute inside the <a> tag.
 * Add at least 2 photos to your site, e.g. from the free pexels service. 
 Download a link to the photo you like in this way and insert it in HTML using 
-<img src = "..."> as the source of the photo.
+"<img src = "...">" as the source of the photo.
 * If the page is ready, copy the contents of the index.html file from the task editor, 
 create a new file in the notepad, paste the code and save it on your computer's desktop. 
 Of course, save the new file as index.html.
