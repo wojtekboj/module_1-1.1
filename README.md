@@ -10,7 +10,6 @@
 First HTML site
 
 ## The content of the task
-
 * Insert the HTML structure into the index.html.
 * Add the title of the page (<title>), then place the same title in the 
 first degree heading in the body of the page (the largest).
@@ -43,7 +42,6 @@ The following tools were used
 * Git
 
 ## Screen 
-
 ![Screen](https://github.com/wojtekboj/module_1-1.1/blob/master/images/screencapture.png)
 
 
