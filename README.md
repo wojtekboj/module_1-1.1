@@ -44,7 +44,7 @@ The following tools were used
 
 ## Screen 
 
-![Screen](https://github.com/wojtekboj/module_7/blob/master/7.7/images/screencapture_mini.jpg)
+![Screen](https://github.com/wojtekboj/module_1-1.1/blob/master/images/screencapture.png)
 
 
 ## Working Page
